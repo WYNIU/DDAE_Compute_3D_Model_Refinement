@@ -2,15 +2,14 @@
 ## Dynamically documenting archaeological excavations based on 3D modeling: a case study of the excavation of the #3 fossil of hominin cranium from Yunxian, Hubei, China. 
 (Manuscript for Heritage Science 2024)
 
-<p align="center">
+<!-- <p align="center">
   <img src="./images/teaser.jpg" width="800px">
-</p>
+</p> -->
 
 **Author:** Wenyuan Niu, Chengqiu Lu, Qiushi Zou, Yunbing Luo, Xuan Wang, Hanyu Xiang, Fan Zhang, Xing Gao, Song Xing, Xuan Wei, Wentai Lou, Dailong Huang, Cheng Wang, Dongqing Jiang, Xiaofeng Wan, Zhongyun Zhang, Huanghao Yin, Jiayang Lu, Feng Wang, Xianfeng Huang*, Yinghua Li*.
 
 (State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, China)
 
-<!-- **SSRN:** https://ssrn.com/abstract=4546861 -->
 
 **Abstract**
 
