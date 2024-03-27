@@ -1,0 +1,4 @@
+[23-Dec-2023 19:16:20] [Level1_Geographical_Environment] Geometric Refinement: 226.31092120 mm
+[23-Dec-2023 19:18:37] [Level2_Archaeological_Site] Geometric Refinement: 5.27245606 mm
+[23-Dec-2023 19:18:52] [Level3_Excavation_Area] Geometric Refinement: 0.17526097 mm
+[23-Dec-2023 19:19:36] [Level4_Cultural_Remains] Geometric Refinement: 0.03361596 mm
